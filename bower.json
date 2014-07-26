@@ -1,0 +1,11 @@
+{
+  "name": "src-website",
+  "private": true,
+  "dependencies": {
+    "sass-bootstrap": "~3.0.0",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.10.2",
+    "marionette": "~2.0.3"
+  },
+  "devDependencies": {}
+}
